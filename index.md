@@ -9,6 +9,7 @@ Currently on the following blockchains:
 - Ethereum (primarily)
 - Ethereum L2s like Arbitrum/Optimism/zksync etc.
 - Polygon
+- Cosmos
 - Avalanche
 - Solana
 - Fantom
