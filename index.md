@@ -18,7 +18,8 @@ Currently on the following blockchains:
 Our services:
 - Data Analyses (on-chain data)
 - Consulting
-- Programming
+- Research
+- Bots for blockchain event alerts
 
 Write us - also if you just want to have a conversation (DE/EN):
 
