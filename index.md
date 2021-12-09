@@ -19,7 +19,7 @@ Our services:
 - Data Analyses (on-chain data)
 - Consulting
 - Research
-- Bots for blockchain event alerts
+- Bots/alerts for blockchain events
 
 Write us - also if you just want to have a conversation (DE/EN):
 
